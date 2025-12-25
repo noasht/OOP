@@ -83,14 +83,6 @@ A dating service management system:
 
 ---
 
-## 🛠️ Build & Run
-```bash
-g++ -std=c++11 -o program *.cpp
-./program
-```
-
----
-
 ## 📄 License
 
 Academic coursework at SCE College of Engineering.
