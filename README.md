@@ -1,8 +1,8 @@
 # Object-Oriented Programming (C++)
 
-> 🎯 OOP course assignments at SCE College of Engineering
-> 
-> **Language:** C++ | **Topics:** Classes, Operators, Inheritance, Polymorphism, Templates, STL
+🎯 OOP course assignments at SCE College of Engineering
+
+**Language:** C++ | **Topics:** Classes, Operators, Inheritance, Polymorphism, Templates, STL
 
 ---
 
